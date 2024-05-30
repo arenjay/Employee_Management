@@ -13,6 +13,7 @@
     </div>
     <!-- /.content-header -->
 
+<<<<<<< HEAD
     <!-- Main content -->
     <div class="content">
     <div class="card card-primary">
@@ -40,5 +41,7 @@
               </form>
             </div>
     </div>
+=======
+>>>>>>> 333e98162ffa40ea1ea1efc6f93ba930d686c55d
     <!-- /.content -->
 @endsection

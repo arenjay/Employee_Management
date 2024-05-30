@@ -22,7 +22,11 @@
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu"
             data-accordion="false">
             <li class="nav-item">
+<<<<<<< HEAD
                 <a href="{{ route('users.index') }}" class="nav-link">
+=======
+                <a href="{{ route('home') }}" class="nav-link">
+>>>>>>> 333e98162ffa40ea1ea1efc6f93ba930d686c55d
                     <i class="nav-icon fas fa-th"></i>
                     <p>
                         {{ __('Dashboard') }}
