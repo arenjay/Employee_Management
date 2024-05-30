@@ -26,15 +26,9 @@
                    
 
                     <div class="card-body" style="background-color: #f2f2f2;">
-<<<<<<< HEAD
                     <div class="card card-red">
-=======
-<<<<<<< HEAD
                     <div class="card card-primary">
-=======
                     <div class="card card-green">
->>>>>>> 333e98162ffa40ea1ea1efc6f93ba930d686c55d
->>>>>>> db9dc4305d1391cd54657aba7d22c5e758382af4
               <div class="card-header">
                 <h3 class="card-title">Add New Employee</h3>
               </div>
@@ -64,15 +58,8 @@
                 <!-- /.card-body -->
 
                 <div class="card-footer">
-<<<<<<< HEAD
-                  <button type="submit" class="btn btn-primary" style="background-color: red;">Submit</button>
-=======
-
-                  <button type="submit" class="btn btn-primary">Submit</button>
-
                   <button type="submit" class="btn btn-primary" style="background-color: green;">Submit</button>
 
->>>>>>> db9dc4305d1391cd54657aba7d22c5e758382af4
                 </div>
               </form>
             </div>
