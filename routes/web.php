@@ -18,6 +18,7 @@ Route::middleware('auth')->group(function () {
     Route::view('about', 'about')->name('about');
     Route::get('employee', [\App\Http\Controllers\employeeController::class, 'index'])->name('employee.index');
     Route::get('users', [\App\Http\Controllers\UserController::class, 'index'])->name('users.index');
+
     Route::get('users', [\App\Http\Controllers\UserController::class, 'index'])->name('users.index');
     Route::get('employee', [\App\Http\Controllers\employeeController::class, 'index'])->name('employee.index');
     Route::get('profile', [\App\Http\Controllers\ProfileController::class, 'show'])->name('profile.show');
