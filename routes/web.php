@@ -13,7 +13,10 @@ Route::get('employee', [employeecontroller::class, 'index'])->name('employee.ind
 Route::post('employee', [employeecontroller::class, 'store']);
 Route::get('employee/{id}/update',[employeecontroller::class, 'edit'])->name('employee.update');
 Route::put('employee/{id}/update',[employeecontroller::class, 'update']);
+<<<<<<< HEAD
+=======
 Route::get('/home', [\App\Http\Controllers\HomeController::class, 'index'])->name('home');
+>>>>>>> 333e98162ffa40ea1ea1efc6f93ba930d686c55d
 
 Route::middleware('auth')->group(function () {
     Route::view('about', 'about')->name('about');
