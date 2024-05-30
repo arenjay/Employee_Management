@@ -10,12 +10,9 @@
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
-            
-<<<<<<< HEAD
-              <li class="breadcrumb-item active">Dashboard v3</li>
-=======
               <li class="breadcrumb-item active">Dashboard</li>
->>>>>>> 333e98162ffa40ea1ea1efc6f93ba930d686c55d
+
+              <li class="breadcrumb-item active">Dashboard</li>
             </ol>
           </div><!-- /.col -->
         </div><!-- /.row -->

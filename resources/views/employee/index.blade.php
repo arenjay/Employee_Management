@@ -25,10 +25,16 @@
                 <div class="card">
                    
 
+
                     <div class="card-body" style="background-color: #f2f2f2;">
                     <div class="card card-red">
                     <div class="card card-primary">
                     <div class="card card-green">
+
+                    <div class="card-body" style="background-color:red;">
+
+
+
               <div class="card-header">
                 <h3 class="card-title">Add New Employee</h3>
               </div>
@@ -58,8 +64,15 @@
                 <!-- /.card-body -->
 
                 <div class="card-footer">
+
                   <button type="submit" class="btn btn-primary" style="background-color: green;">Submit</button>
 
+
+
+                  <button type="submit" class="btn btn-primary" style="background-color: pink;">Submit</button>
+
+
+          
                 </div>
               </form>
             </div>

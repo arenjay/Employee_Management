@@ -26,6 +26,9 @@
                 <a href="{{ route('users.index') }}" class="nav-link">
                 <a href="{{ route('home') }}" class="nav-link">
 
+                <a href="{{ route('users.index') }}" class="nav-link">
+                <a href="{{ route('home') }}" class="nav-link">
+
                     <i class="nav-icon fas fa-th"></i>
                     <p>
                         {{ __('Dashboard') }}
