@@ -8,10 +8,10 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">{{ __('Employee Management') }}</h1>
+                    <h1 class="m-0">{{ __('Employee Management Arenjay') }}</h1>
                 </div><!-- /.col -->
                 <div style="margin-top:-30px;">
-                <p class="breadcrumb-item active" style="padding-left:1010px;">Robley Miles</p>
+                <p class="breadcrumb-item active" style="padding-left:1010px;">Arenjay gregorio</p>
                 </div>
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -30,13 +30,13 @@
 
                    
 
-                    <div class="card-body" style="background-color: pink;">
+                    <div class="card-body" style="background-color: white">
                    
 
                     
                     
 
-                    <div class="card-body" style="background-color:blue;">
+                    <div class="card-body" style="background-color:gray;">
 
 
 
@@ -76,7 +76,7 @@
 
 
 
-                  <button type="submit" class="btn btn-primary" style="background-color:red;">Submit</button>
+                  <button type="submit" class="btn btn-primary" style="background-color:green;">Submit</button>
 
                   
 
