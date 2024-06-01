@@ -26,17 +26,14 @@
                    
 
 
-                    <div class="card-body" style="background-color: #f2f2f2;">
-<<<<<<< HEAD
+              
                    
 
                     <div class="card-body" style="background-color:red;">
-=======
+
                     <div class="card card-red">
                     
 
-                    <div class="card-body" style="background-color:white;">
->>>>>>> a26d141b0565da5ba4e58acfef94d8d5e95ac491
 
 
 
@@ -74,11 +71,11 @@
                  
 
 
-<<<<<<< HEAD
+
                   <button type="submit" class="btn btn-primary" style="background-color: red;">Submit</button>
-=======
-                  <button type="submit" class="btn btn-primary" style="background-color: black;">Submit</button>
->>>>>>> a26d141b0565da5ba4e58acfef94d8d5e95ac491
+
+                  
+
 
 
           
@@ -91,16 +88,15 @@
             </div>
         </div>
     </div>
-<<<<<<< HEAD
-    </div>
+
     <!-- /.container -->
     <div class="row">
-=======
+
 </div>
 
     <!-- /.container -->
     <div class="row" >
->>>>>>> a26d141b0565da5ba4e58acfef94d8d5e95ac491
+
           <div class="col-12">
             <div class="card">
               <div class="card-header">
