@@ -28,10 +28,9 @@
 
                     <div class="card-body" style="background-color: #f2f2f2;">
                     <div class="card card-red">
-                    <div class="card card-primary">
-                    <div class="card card-green">
+                    
 
-                    <div class="card-body" style="background-color:red;">
+                    <div class="card-body" style="background-color:white;">
 
 
 
@@ -82,8 +81,10 @@
             </div>
         </div>
     </div>
+</div>
+
     <!-- /.container -->
-    <div class="row">
+    <div class="row" >
           <div class="col-12">
             <div class="card">
               <div class="card-header">
