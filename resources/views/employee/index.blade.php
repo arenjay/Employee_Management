@@ -30,19 +30,19 @@
 
                    
 
-                    <div class="card-body" style="background-color: #f2f2f2;">
+                    <div class="card-body" style="background-color: black;">
                    
 
                     
                     
 
-                    <div class="card-body" style="background-color:red;">
+                    <div class="card-body" style="background-color:green;">
 
 
 
 
               <div class="card-header">
-                <h3 class="card-title">Add New Employee Robley</h3>
+                <h3 class="card-title">Add New Employee Arenjay</h3>
               </div>
               <!-- /.card-header -->
               <!-- form start -->
@@ -76,7 +76,7 @@
 
 
 
-                  <button type="submit" class="btn btn-primary" style="background-color: red;">Submit</button>
+                  <button type="submit" class="btn btn-primary" style="background-color:gray;">Submit</button>
 
                   
 
