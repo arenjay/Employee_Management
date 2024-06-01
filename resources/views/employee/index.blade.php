@@ -8,7 +8,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">{{ __('Employee Management System Techie') }}</h1>
+                    <h1 class="m-0">{{ __('Employee Management') }}</h1>
                 </div><!-- /.col -->
                 <div style="margin-top:-30px;">
                 <p class="breadcrumb-item active" style="padding-left:1010px;">Employee Management</p>
@@ -93,6 +93,10 @@
         </div>
     </div>
 
+    <!-- /.container -->
+    <div class="row">
+
+
     
 
 </div>
@@ -104,18 +108,14 @@
 
           <div class="col-12">
             <div class="card">
-              <div class="card-header"  style="background-color: gray;">
-                <h3 class="card-title">Arenjjay Gregorio BSIT 3A</h3>
+              <div class="card-header"  style="background-color:green;">
+                <h3 class="card-title">Robley miles Guinto</h3>
 
 
                 <div class="card-tools">
                   <div class="input-group input-group-sm" style="width: 150px;">
-                    <input type="text" name="table_search" class="form-control float-right" placeholder="Search bar">
-
-                    <div class="input-group-append">
-                      <button type="submit" class="btn btn-default">
-                       
-                      </button>
+                   
+                  
                     </div>
                   </div>
                 </div>
@@ -150,6 +150,7 @@
                             </i>
                                  Edit 
                                  </a>
+                                 <span class="mx-2"></span> 
                        <a class="btn btn-danger btn-sm" href="{{url($item->id)}}">
                            <i class="">
                             Delete </a>
