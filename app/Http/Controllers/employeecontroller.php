@@ -44,5 +44,9 @@ class employeecontroller extends Controller
          ]);
          return redirect('employee');
     }
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> a26d141b0565da5ba4e58acfef94d8d5e95ac491
 }
