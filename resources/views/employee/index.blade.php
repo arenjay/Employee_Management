@@ -108,7 +108,7 @@
 
           <div class="col-12">
             <div class="card">
-              <div class="card-header"  style="background-color:green;">
+              <div class="card-header"  style="background-color:pink;">
                 <h3 class="card-title">Robley miles Guinto</h3>
 
 
